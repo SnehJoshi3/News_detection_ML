@@ -38,3 +38,6 @@ The dataset used consists of two CSV files: `True.csv` and `Fake.csv`, containin
 ## 📈 Results
 * **Logistic Regression Accuracy:** ~98%
 * **Decision Tree Accuracy:** ~99%
+
+  ## Dataset credits
+   https://github.com/ChitranjanUpadhayay/ML_Projects/tree/main/Datasets/Fake%20News
