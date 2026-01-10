@@ -38,7 +38,3 @@ The dataset used consists of two CSV files: `True.csv` and `Fake.csv`, containin
 ## 📈 Results
 * **Logistic Regression Accuracy:** ~98%
 * **Decision Tree Accuracy:** ~99%
-* *(Add your actual results here after running the code)*
-
----
-*Created by Sneh Joshi*
