@@ -23,7 +23,7 @@ The dataset used consists of two CSV files: `True.csv` and `Fake.csv`, containin
 ## ⚙️ How to Run
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/SnehJoshi3/fake-news-detector.git](https://github.com/SnehJoshi3/fake-news-detector.git)
+    git clone 
     ```
 2.  Install dependencies:
     ```bash
