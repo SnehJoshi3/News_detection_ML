@@ -18,7 +18,10 @@ This project processes thousands of news articles, cleans the text data, and tra
 
 ## 📂 Dataset
 The dataset used consists of two CSV files: `True.csv` and `Fake.csv`, containing news articles labeled as genuine or fake. 
-*(Note: If you used the Kaggle dataset, verify the license and link it here).*
+
+  ## Dataset credits
+   https://github.com/ChitranjanUpadhayay/ML_Projects/tree/main/Datasets/Fake%20News
+
 
 ## ⚙️ How to Run
 1.  Clone the repository:
